@@ -1,4 +1,4 @@
-***#icon resizer for xcode app icons***
+# ***icon resizer for xcode app icons***
 <img width="256" height="256" alt="icon 2" src="https://github.com/user-attachments/assets/b603cda0-9828-45bf-b15e-f35d589b3805" />
 
 
